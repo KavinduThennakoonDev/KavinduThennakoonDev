@@ -3,11 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 All of my projects are available at [https://kavindu-thennakoon.netlify.app/](https://kavindu-thennakoon.netlify.app/)
-
-- 💬 Ask me about **reactjs,nodejs**
 
 - 📫 How to reach me **kavinduthennakoon222@gmail.com**
 
