@@ -1,4 +1,5 @@
-holopin.io/@kavinduthennakoondev
+[![An image of @kavinduthennakoondev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kavinduthennakoondev)](https://holopin.io/@kavinduthennakoondev
+)
 
 <h1 align="center">Hi 👋, I'm Kavindu Thennakoon</h1>
 <h3 align="center">Aspiring IT innovator | SLIIT undergraduate | Passionate about tech, programming, and data | Seeking collaborative projects.</h3>
